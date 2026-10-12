@@ -8,7 +8,9 @@
     "test": "jest --runInBand"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "npm": "^12.2.0",
+    "test": "^3.3.0"
   },
   "devDependencies": {
     "jest": "^29.7.0",
